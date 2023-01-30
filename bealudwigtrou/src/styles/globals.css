@@ -387,14 +387,14 @@ top: -5em;
   .Storie{
     display: flex;
     flex-direction: column;
-    height: 330px;
+    height: 400px;
     width: 300px;
 margin-left: -15px;
    border-radius: 50px;
    background: #ffffff;
 box-shadow: inset 27px 27px 54px #e6e6e6,
 inset -27px -27px 54px #ffffff;
-               padding: 1rem;
+               padding: 2rem;
              
   }
   .storielayout{
