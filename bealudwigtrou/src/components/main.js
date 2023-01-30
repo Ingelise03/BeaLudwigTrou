@@ -14,9 +14,9 @@ const mainPart = () => {
          <div className='decor2' style={{ position: 'absolute', overflow: 'hidden', height: '100%' }}>
         <Image src='/leafGold1.png' fill alt='gold' priority className='gold' />
          </div>
-         <div className='decor4' style={{ position: 'absolute', overflow: 'hidden', height: '100%' }}>
+         {/* <div className='decor4' style={{ position: 'absolute', overflow: 'hidden', height: '100%' }}>
         <Image src='/GOldDetail.png' fill alt='goldD' priority className='goldD' />
-         </div>
+         </div> */}
          <div className='decor5' style={{ position: 'absolute', overflow: 'hidden', height: '100%' }}>
         <Image src='/goldline.png' fill alt='goldl' priority className='goldl' />
          </div>
