@@ -365,8 +365,71 @@ top: -5em;
 @media screen and (max-width: 650px) {
 
 }
-@media screen and (max-width: 490px) {
+@media screen and (max-width: 450px) {
+  .decor1{
+   
+    
+    width: 390px !important;
+    height: 80px;
+    
+  }
+  .Storie{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 380px;
+margin-left: 0px;
+   border-radius: 50px;
+   background: #ffffff;
+box-shadow: inset 27px 27px 54px #e6e6e6,
+inset -27px -27px 54px #ffffff;
+               padding: 1rem;
+             
+  }
+  .decor{
+    position: absolute;
+    top: 5em;;
+    width: 100px;
+  }
+.decor2{
+  width: 100px;
+  position: absolute;
+  top: -15em;
+  right: 0em;
+}
+.decor3{
   
+  position: absolute;
+  right: 0em;
+width: 100px;
+top: 47em;
+}
+.decor4{
+  position: absolute;
+  right: 0em;
+width: 400px;
+top: 38em;
+}
+.decor5{
+  position: absolute;
+  right: 2em;
+width: 300px;
+top: -36.2em;
+}
+.mapouter{
+  border-radius: 50px;
+  position:relative;
+  text-align:right;
+  height:200px;
+  width:320px;
+}
+.gmap_canvas {
+  border-radius: 50px;
+  overflow:hidden;
+  background:none!important;
+  height:280px;
+  width:320px;
+}
 }
 @media screen and (max-width: 400px) {
   .leaf{
