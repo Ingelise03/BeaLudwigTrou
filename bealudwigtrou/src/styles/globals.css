@@ -279,6 +279,7 @@ top: -5em;
   text-align:center;
   height:200px;
   width:800px;
+  z-index: 1;
 }
 .gmap_canvas {
   text-align:center;
@@ -287,6 +288,7 @@ top: -5em;
   background:none!important;
   height:290px;
   width:800px;
+  z-index: 1;
 }
 
 .banner{
@@ -402,7 +404,7 @@ inset -27px -27px 54px #ffffff;
   position: absolute;
   right: 0em;
 width: 100px;
-top: 47em;
+top: 52em;
 }
 .decor4{
   position: absolute;
