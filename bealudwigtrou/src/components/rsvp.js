@@ -11,7 +11,8 @@ const rsvp = () => {
         <Image src='/leafGold1.png' fill alt='leaf1' priority className='leaf1' />
          </div>
       <div className='rsvpsection'>
-        
+     
+       
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScAAj3cTfTDkrKk9mh8m0Qanyw5AQN17C773xtXsE14-_hj-g/viewform?embedded=true" width="640" height="916" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       </div>
      
