@@ -29,6 +29,7 @@ const mainPart = () => {
         <h2>Kleredrag</h2>
         <p>Semi-Formeel.</p>
         <p>Geen Jeans, kortbroeke of plakkies nie</p>
+        <p>Tyd vir : 15:45 vir 16:00</p>
        </div>
        
         </div>
